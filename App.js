@@ -10,7 +10,7 @@ hamburger.addEventListener('click', () => {
 
 document.addEventListener('scroll', () => {
 	let scroll_position = window.scrollY;
-	if (scroll_position > 50) { //changes speeed of background
+	if (scroll_position > 50) { //changes speed of background
 		header.style.backgroundColor = '#29323c'; // color of background nav bard
 	} else {
 		header.style.backgroundColor = 'transparent';
