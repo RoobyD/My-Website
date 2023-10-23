@@ -270,7 +270,7 @@ p {
 /* Projects section */
 #projects .projects {
 	flex-direction: column;
-	max-width: 1400px; /* Orginal 1200 px*/ /* shrinks or grows space between */
+	max-width: 1400px; /* Orginal 1200 px*/ /* shrinks or grows space between boarders  */
 	margin: 0 auto;
 	padding: 100px 0;
 	background-color: black; /* background color of enitre project section */
