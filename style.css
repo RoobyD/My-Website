@@ -417,6 +417,9 @@ p {
 #contact .contact h1{
 	color: white; /*changes color of "Contact" */
 }
+#contact .contact h2{
+	color: black; /*changes color of "Contact" */
+}
 #contact .contact-items {
 	/* max-width: 400px; */
 	width: 100%;
@@ -454,6 +457,12 @@ p {
 }
 #contact .contact-info h2 {
 	font-size: 1.3rem;
+	line-height: 2rem;
+	font-weight: 1000;  /* email and phone font*/
+}
+
+#contact .contact-info h3 {
+	font-size: 1.3rem;   /* sub sections of email and font*/
 	line-height: 2rem;
 	font-weight: 500;
 }
